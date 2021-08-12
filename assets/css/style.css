@@ -76,7 +76,7 @@ section {
     padding: 60px;
 }
 
-/* Hero Style Start */
+/* homepage Hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -84,7 +84,7 @@ section {
     background-position: center;
     position: relative;
 }
-/*Hero Style End */
+/*homepage Hero Style End */
 
 .hero-form {
     background-color: #fce138;

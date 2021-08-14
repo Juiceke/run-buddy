@@ -12,3 +12,5 @@ https://Juiceke.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Juiceke
+
+#### ©️2019 Run Buddy, Inc
